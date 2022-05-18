@@ -64,4 +64,4 @@ adam optimizer.
 
 Softmax Layer: Outputs a vector of values that sum to 1.0. It is related to the argmax function
 that outputs a 0 for all options and 1 for the chosen option and Classifies into 1 of 7 emotion
-categories
+categories.
